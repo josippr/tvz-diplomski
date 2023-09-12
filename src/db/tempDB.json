@@ -1,0 +1,1127 @@
+[
+    {
+        "id": "1",
+        "question": "Javascript je skriptni jezik koji se izvršava na?",
+        "answer": "Javascript se izvršava na klijentskoj strani."
+    },
+    {
+        "id": "2",
+        "question": "Kada govorimo o bazama podataka, što označava kratica DBMS?",
+        "answer": "Kratica DBMS označava Sustav za upravljanje bazama podataka (engl. Database Management System)."
+    },
+    {
+        "id": "3",
+        "question": "Kada govorimo o bazi podataka MySQL, tipovi podataka dijele se na?",
+        "answer": "Kada govorimo o bazi podataka MySQL, tipovi podataka dijele se na cijele brojeve, decimalne brojeve, znakovne nizove i mnoge druge."
+    },
+    {
+        "id": "4",
+        "question": "Kada govorimo o slanju podataka kroz formu koristeći POST metodu, što element <input type=\"text\"> označava?",
+        "answer": "Element <input type=\"text\"> označava unos teksta u obliku tekstualnog polja."
+    },
+    {
+        "id": "5",
+        "question": "Kada govorimo o vezama između dvije stranice ili stranice i dokumenta, postoje veze koje su?",
+        "answer": "Veze između dvije stranice ili stranice i dokumenta mogu biti internetske (hiperveze) i unutarnje (poveznice na istoj stranici)."
+    },
+    {
+        "id": "6",
+        "question": "Kako ispravno uključujemo JavaScript u HTML dokumentu?",
+        "answer": "JavaScript se ispravno uključuje u HTML dokument korištenjem elementa <script> u <head> ili <body> sekciji."
+    },
+    {
+        "id": "7",
+        "question": "Od kojih vrsta komponenti se sastoje HTML elementi?",
+        "answer": "HTML elementi se sastoje od otvarajućeg taga, zatvarajućeg taga i sadržaja između njih."
+    },
+    {
+        "id": "8",
+        "question": "SQL upit na bazu za dohvat svih podataka iz entiteta \"tablica\" koristimo naredbu?",
+        "answer": "SQL upit za dohvat svih podataka iz entiteta \"tablica\" koristimo naredbu SELECT * FROM tablica;"
+    },
+    {
+        "id": "9",
+        "question": "Unutar navedenog URL-a koji dio se odnosi na domenu http://www.domena.com/folder/index.html?",
+        "answer": "Dio koji se odnosi na domenu je www.domena.com."
+    },
+    {
+        "id": "10",
+        "question": "Za spajanje (konkatenaciju) dvije varijable u PHP-u koristimo?",
+        "answer": "Za spajanje (konkatenaciju) dvije varijable u PHP-u koristimo točku (.) operator."
+    },
+    {
+        "id": "11",
+        "question": "Kada koristimo umetnuti linijski (engl. inline) CSS?",
+        "answer": "Umetnuti linijski CSS se koristi kada želimo primijeniti stil direktno na pojedini HTML element."
+    },
+    {
+        "id": "12",
+        "question": "Kada govorimo o stilskim obrascima (engl CSS), koji stil ima najveći prioritet?",
+        "answer": "Najveći prioritet ima stilski atribut koji je primijenjen direktno na element (inline stil), a zatim dolazi interni stil (embedded) i na kraju vanjski stil (external)."
+    },
+    {
+        "id": "13",
+        "question": "Tko se brine za standardizaciju XML jezika?",
+        "answer": "Standardizaciju XML jezika brine se organizacija W3C (World Wide Web Consortium)."
+    },
+    {
+        "id": "14",
+        "question": "XML je jezik koji služi za?",
+        "answer": "XML je jezik koji služi za označavanje struktuiranih podataka u tekstualnom formatu."
+    },
+    {
+        "id": "15",
+        "question": "U XML dokumentu prva linija koda <?xml version=\"1.0\" encoding=”UTF-8” standalone=”yes”?> predstavlja?",
+        "answer": "Prva linija koda u XML dokumentu predstavlja deklaraciju dokumenta i navodi verziju XML-a, kodiranje i da li je dokument samostalan (standalone)."
+    },
+    {
+        "id": "16",
+        "question": "Pravila pisanja XML dokumenta?",
+        "answer": "XML dokument mora biti dobro formiran i slijediti sintaksna pravila. Svaki otvoreni element mora imati odgovarajući zatvoreni element. Atributi moraju biti u dvostrukim ili jednostrukim znakovima. Posebni znakovi trebaju biti zamijenjeni entitetima, itd."
+    },
+    {
+        "id": "17",
+        "question": "Kratica XML znači?",
+        "answer": "Kratica XML označava Extensible Markup Language, što znači proširivi označni jezik."
+    },
+    {
+        "id": "18",
+        "question": "Ako imamo u XML dokumentu zapis: <film br=\"1\">, tada je br?",
+        "answer": "Ako imamo zapis <film br=\"1\">, tada je br atribut koji ima vrijednost \"1\"."
+    },
+    {
+        "id": "19",
+        "question": "Što su entiteti kod XML-a?",
+        "answer": "Entiteti su posebni znakovi ili nizovi znakova koji se koriste za zamjenu znakova koji imaju posebno značenje u XML-u, kao što su <, >, i &."
+    },
+    {
+        "id": "20",
+        "question": "Unutar XML elementa isključivo je zabranjena upotreba kojih znakova?",
+        "answer": "Unutar XML elementa isključivo je zabranjena upotreba znakova < i &."
+    },
+    {
+        "id": "21",
+        "question": "Da bi poslovni sustav mogao obavljati svoju funkciju potrebne su mu?",
+        "answer": "Da bi poslovni sustav mogao obavljati svoju funkciju, potrebni su mu informacije, tehnologija i ljudi."
+    },
+    {
+        "id": "22",
+        "question": "Informacijske sustave u poslovnom svijetu koristimo kroz?",
+        "answer": "Informacijske sustave u poslovnom svijetu koristimo kroz procese upravljanja i analize informacija."
+    },
+    {
+        "id": "23",
+        "question": "Koja je definicija za pojam \"Efekt paradoksa\"?",
+        "answer": "Efekt paradoksa odnosi se na situaciju u kojoj povećanje dostupnosti informacija može dovesti do povećane nesigurnosti u donošenju odluka."
+    },
+    {
+        "id": "24",
+        "question": "Koji je postupak pripreme informacija za poslovno odlučivanje?",
+        "answer": "Postupak pripreme informacija za poslovno odlučivanje uključuje prikupljanje, obradu i analizu podataka kako bi se donosile informirane odluke."
+    },
+    {
+        "id": "25",
+        "question": "Koji su tipovi informacijskog sustava?",
+        "answer": "Tipovi informacijskih sustava uključuju upravljačke informacijske sustave (MIS), sustave za upravljanje bazama podataka (DBMS), sustave za podršku odlučivanju (DSS) i druge."
+    },
+    {
+        "id": "26",
+        "question": "Koliki broj informacijskih sustava može biti ako se ukupno 8 (osam) poslovnih funkcija obavlja u poduzeću?",
+        "answer": "Ako se ukupno 8 poslovnih funkcija obavlja u poduzeću, može postojati 28 različitih informacijskih sustava."
+    },
+    {
+        "id": "27",
+        "question": "Ovisno o kvaliteti informacijskog sustava ovisit će i kvaliteta čega?",
+        "answer": "Ovisno o kvaliteti informacijskog sustava, ovisit će i kvaliteta odluka koje se donose koristeći te informacije."
+    },
+    {
+        "id": "28",
+        "question": "Sustav se razlikuje s obzirom na orijentiranost ili smjer. Navedite koje veze poznajete?",
+        "answer": "Sustav može biti orijentiran prema podacima (data-oriented), procesima (process-oriented) ili objektima (object-oriented)."
+    },
+    {
+        "id": "29",
+        "question": "Što je metoda crne kutije?",
+        "answer": "Metoda crne kutije (engl. black-box method) je pristup ispitivanju sustava bez poznavanja unutarnjih detalja sustava."
+    },
+    {
+        "id": "30",
+        "question": "Što trebamo odrediti prije svakog istraživanja sustava, njegovih svojstava i funkcija?",
+        "answer": "Prije svakog istraživanja sustava, njegovih svojstava i funkcija, trebamo odrediti ciljeve i opseg istraživanja."
+    },
+    {
+        "id": "30",
+        "question": "Što trebamo odrediti prije svakog istraživanja sustava, njegovih svojstava i funkcija?",
+        "answer": "Prije svakog istraživanja sustava, njegovih svojstava i funkcija trebamo odrediti ciljeve istraživanja, metode koje ćemo koristiti, i kriterije za evaluaciju rezultata."
+    },
+    {
+        "id": "31",
+        "question": "Koje su prednosti AAA (Authentication, Authorization and Accounting) identifikacije? (ima više odgovora)",
+        "answer": "Prednosti AAA identifikacije uključuju povećanu sigurnost sustava jer pruža autentikaciju korisnika, kontrolu pristupa resursima putem autorizacije te omogućava praćenje i evidenciju aktivnosti korisnika kroz računovodstvo (accounting). Osim toga, omogućava centralizirano upravljanje pristupom korisnika, što olakšava administraciju i održavanje sustava."
+    },
+    {
+        "id": "32",
+        "question": "Što je Asymmetric Digital Subscriber Line - ADSL? (ima više odgovora)",
+        "answer": "ADSL (Asymmetric Digital Subscriber Line) je tehnologija digitalne komunikacije putem bakrenih telefonskih linija koja omogućava brži prijenos podataka prema korisniku (download) nego u suprotnom smjeru (upload). To je asimetrična tehnologija koja se često koristi za pristup internetu."
+    },
+    {
+        "id": "33",
+        "question": "Što je Quality of Services?",
+        "answer": "Quality of Service (QoS) je skup tehnika i mehanizama koji omogućavaju kontrolu i upravljanje kvalitetom prijenosa podataka u mreži. To uključuje prioritizaciju određenih podataka kako bi se osigurala najbolja moguća kvaliteta servisa u okolini s ograničenim resursima."
+    },
+    {
+        "id": "34",
+        "question": "Što je usmjernik (router)?",
+        "answer": "Usmjernik (router) je mrežni uređaj koji omogućava povezivanje različitih mreža i preusmjeravanje podataka između njih. On donosi odluke o najboljem putu za slanje podataka prema odredištu na temelju informacija u mrežnim paketima."
+    },
+    {
+        "id": "35",
+        "question": "Što od navedenog se odnosi na HTTPS (HyperText Transfer Protocol Secure) internetski protokol? (ima više odgovora)",
+        "answer": "HTTPS je sigurna verzija HTTP protokola koja osigurava enkripciju podataka između web preglednika korisnika i web poslužitelja. To pruža povjerljivost i integritet podataka koji se prenose. Također, HTTPS koristi TCP port 443 za komunikaciju."
+    },
+    {
+        "id": "36",
+        "question": "Što od navedenog se odnosi na Wide Area Network (WAN)?",
+        "answer": "Wide Area Network (WAN) je mreža koja pokriva veliko geografsko područje, obično države, kontinente ili čak globalnu razinu. Primjeri WAN-a uključuju internet i globalne komunikacijske mreže kao što su satelitske mreže."
+    },
+    {
+        "id": "37",
+        "question": "Što podrazumijeva autentifikacija (eng. Autentication) u računalnim sustavima?",
+        "answer": "Autentifikacija u računalnim sustavima podrazumijeva proces provjere identiteta korisnika, uređaja ili sustava kako bi se osiguralo da su oni oni za koje se predstavljaju. To može uključivati korisnična imena i lozinke, biometrijske podatke ili druge metode."
+    },
+    {
+        "id": "38",
+        "question": "Što podrazumijeva autorizacija (eng. Authorization) u računalnim sustavima?",
+        "answer": "Autorizacija u računalnim sustavima je proces određivanja prava i dozvola pristupa korisnicima ili sustavima nakon što su se uspješno autentificirali. To definira što korisnik smije raditi unutar sustava ili s određenim resursima."
+    },
+    {
+        "id": "39",
+        "question": "Što predstavlja DNS (Domain Name System) sustav?",
+        "answer": "DNS (Domain Name System) sustav je distribuirani sustav koji prevede ljudski čitljive domenske adrese (npr. www.primjer.com) u IP adrese koje koristi mreža za identifikaciju i komunikaciju s poslužiteljima."
+    },
+    {
+        "id": "40",
+        "question": "Što predstavlja kratica FTP?",
+        "answer": "FTP označava File Transfer Protocol. To je standardni protokol za prijenos datoteka između računala na mreži."
+    },
+    {
+        "id": "41",
+        "question": "Ako je deklarirana varijabla double y;, što se ispisuje s naredbom printf(\"%g\", y=1.0/2);",
+        "answer": "Naredba printf(\"%g\", y=1.0/2); će ispisati rezultat izračuna 1.0/2 u formatu koji odgovara double varijablama, što je 0.5."
+    },
+    {
+        "id": "42",
+        "question": "Ako je deklarirana varijabla double y;, što se ispisuje s naredbom printf(\"%g\", y=1/2);",
+        "answer": "Naredba printf(\"%g\", y=1/2); će ispisati rezultat izračuna 1/2 u formatu koji odgovara double varijablama, što je također 0.5."
+    },
+    {
+        "id": "43",
+        "question": "Što će se ispisati? int a=10; if (a = 5) printf(\"A je %d!\", a);",
+        "answer": "Ispisat će se: A je 5!"
+    },
+    {
+        "id": "44",
+        "question": "Što će se ispisati? char broj = 4; switch (broj) { case 1: printf(\"Broj je 1\"); break; case 2: printf(\"Broj je 2\"); break; default: printf(\"Nepoznat broj\"); break; }",
+        "answer": "U ovom slučaju, ispisat će se: Nepoznat broj. Budući da je vrijednost varijable 'broj' 4, nijedan od 'case' iskaza u 'switch' bloku neće se podudarati."
+    },
+    {
+        "id": "45",
+        "question": "Što će se ispisati? int a = 10, b = 5; if (a == 10 && b == 5) printf(\"Točno!\"); else printf(\"Netočno!\");",
+        "answer": "Ispisat će se: Točno! Jer oba uslova u 'if' izrazu su zadovoljena (a == 10 i b == 5)."
+    },
+    {
+        "id": "46",
+        "question": "Što će se ispisati? int a = 10, b = 5; if (a == 10 || b == 5) printf(\"Točno!\"); else printf(\"Netočno!\");",
+        "answer": "Ispisat će se: Točno! Jer barem jedan od uslova u 'if' izrazu je zadovoljen (a == 10)."
+    },
+    {
+        "id": "47",
+        "question": "Što radi funkcija \"printf(\"%d\\n\", 12);\"?",
+        "answer": "Funkcija 'printf(\"%d\\n\", 12);' ispisuje broj 12 s novim redom na standardni izlaz koristeći formatiranje za cjelobrojne vrijednosti."
+    },
+    {
+        "id": "48",
+        "question": "Koja je svrha funkcije \"sprintf(\"%d\", x);\"?",
+        "answer": "Svrha funkcije 'sprintf(\"%d\", x);' je formatiranje podataka u niz znakova tako da se mogu spremiti u niz ili datoteku. U ovom slučaju, formatira se cjelobrojna vrijednost 'x' i sprema u niz znakova."
+    },
+    {
+        "id": "49",
+        "question": "Što je recenzija koda (engl. code review)?",
+        "answer": "Recenzija koda je proces u kojem članovi tima ili programeri pregledavaju i ocjenjuju kod napisan od strane drugih članova tima. Cilj recenzije koda je pronalaženje grešaka, poboljšanje kvalitete koda i osiguranje da se pridržavaju standardi i najbolje prakse."
+    },
+    {
+        "id": "50",
+        "question": "Kako se naziva proces ispitivanja programske opreme radi otkrivanja i ispravljanja grešaka?",
+        "answer": "Proces ispitivanja programske opreme radi otkrivanja i ispravljanja grešaka naziva se 'debugiranje' ili 'debugiranje koda.'"
+    },
+    {
+        "id": "51",
+        "question": "Što je Scrum?",
+        "answer": "Scrum je agilna metodologija razvoja softvera koja se temelji na iterativnom i inkrementalnom pristupu. To je okvir za upravljanje projektima koji se koristi za organizaciju, planiranje i praćenje razvoja proizvoda."
+    },
+    {
+        "id": "52",
+        "question": "Što je Agile razvoj?",
+        "answer": "Agile razvoj je filozofija razvoja softvera koja promiče fleksibilnost, suradnju i brzu prilagodbu promjenama. Osnovna načela Agilnog razvoja su izražena u Agilnom manifestu, a popularne metodologije uključuju Scrum, Kanban, i Extreme Programming (XP)."
+    },
+    {
+        "id": "53",
+        "question": "Koji je cilj retrospektive u Scrumu?",
+        "answer": "Cilj retrospektive u Scrumu je omogućiti timu da pregleda svoj rad tijekom prethodnog sprinta, identificira što je išlo dobro i što se može poboljšati te dogovori akcije za poboljšanje procesa razvoja u sljedećem sprintu."
+    },
+    {
+        "id": "54",
+        "question": "Koji su osnovni elementi metode Agile razvoja?",
+        "answer": "Osnovni elementi metode Agile razvoja uključuju suradnju tima i klijenta, česte iteracije i inkrementalni razvoj, fleksibilnost u odgovoru na promjene, kontinuiranu komunikaciju i povratnu informaciju te fokus na isporuku vrijednosti korisnicima."
+    },
+    {
+        "id": "55",
+        "question": "Što predstavlja User Story u Agile razvoju?",
+        "answer": "User Story u Agile razvoju je jednostavan opis funkcionalnosti ili zahtjeva iz perspektive korisnika. Obično je napisan u obliku kratke priče koja opisuje tko je korisnik, što želi postići i zašto. User Story se koristi kao temelj za planiranje i prioritizaciju posla."
+    },
+    {
+        "id": "56",
+        "question": "Što je CI/CD (Continuous Integration/Continuous Deployment)?",
+        "answer": "CI/CD (Continuous Integration/Continuous Deployment) je praksa automatskog integriranja novog koda u zajednički repozitorij, testiranja i isporuke softvera korisnicima učestalo i kontinuirano. Cilj je ubrzati isporuku softvera i osigurati visoku kvalitetu."
+    },
+    {
+        "id": "57",
+        "question": "Što su sprints u Scrumu?",
+        "answer": "Sprintovi u Scrumu su fiksni vremenski okviri (obično 2-4 tjedna) tijekom kojih tim razvija i isporučuje nove funkcionalnosti proizvoda. Sprintovi se koriste za organizaciju i planiranje rada tima."
+    },
+    {
+        "id": "58",
+        "question": "Kako se zove osoba koja je odgovorna za održavanje Product Backloga u Scrumu?",
+        "answer": "Osoba koja je odgovorna za održavanje Product Backloga u Scrumu naziva se Product Owner. Product Owner je odgovoran za definiranje prioriteta zahtjeva i komunikaciju s timom o potrebama korisnika."
+    },
+    {
+        "id": "59",
+        "question": "Što će se ispisati?\nstruct duzina { int a; int b;};\nstruct duzina instanca[5] = {1, 2};\nprintf(\"%d\", (instanca+1)->a);",
+        "answer": "Odgovor: Ispisat će se broj 2."
+    },
+    {
+        "id": "60",
+        "question": "Što će se ispisati za: C:>jedan dva tri\nint main(int argc, char *argv[]) {\nprintf(\"%s %d\", *(argv+2), sizeof(argv[0]));\n}",
+        "answer": "Odgovor: Ispisat će se: \"dva 8\"."
+    },
+    {
+        "id": "61",
+        "question": "Što predstavlja klasa?",
+        "answer": "Odgovor: Klasa je temeljni koncept objektno orijentiranog programiranja (OOP) i predstavlja oblikovanje objekta. To je nacrtni plan ili šablona za stvaranje objekata."
+    },
+    {
+        "id": "62",
+        "question": "Što je enkapsulacija?",
+        "answer": "Odgovor: Enkapsulacija je koncept objektno orijentiranog programiranja (OOP) koji se odnosi na skrivanje unutarnjeg stanja objekta i pristup tome stanju samo putem definiranih sučelja (metoda). To omogućava kontrolirani pristup podacima i sprječava neovlašteno mijenjanje unutarnjeg stanja objekta."
+    },
+    {
+        "id": "63",
+        "question": "Čemu služi konstruktor klase?",
+        "answer": "Odgovor: Konstruktor klase je posebna metoda koja se koristi za inicijalizaciju objekta klase. On se automatski poziva prilikom stvaranja novog objekta te postavlja početne vrijednosti svojstava ili izvršava druge inicijalizacijske zadatke."
+    },
+    {
+        "id": "64",
+        "question": "Što su metode?",
+        "answer": "Odgovor: Metode su funkcije koje su definirane unutar klase i služe za izvršavanje određenih operacija nad objektima te klase. Metode omogućavaju interakciju s objektima i obavljanje različitih akcija nad njima."
+    },
+    {
+        "id": "65",
+        "question": "Nasljeđivanjem se definira koja veza među klasama?",
+        "answer": "Odgovor: Nasljeđivanjem se definira hijerarhijska veza između klasa, gdje jedna klasa može naslijediti svojstva i metode druge klase. Ova veza se naziva 'is-a' veza, što znači da naslijeđena klasa 'je' podklasa roditeljske klase."
+    },
+    {
+        "id": "66",
+        "question": "Što je potrebno za polimorfizam?",
+        "answer": "Odgovor: Za polimorfizam je potrebno naslijeđivanje i preklapanje metoda. Polimorfizam omogućava korištenje istih metoda ili operacija na različitim objektima, pri čemu se metoda izvršava prema tipu objekta koji je trenutno instanciran."
+    },
+    {
+        "id": "67",
+        "question": "Kojom vezom prikazujemo nasljeđivanje u UML dijagramu?",
+        "answer": "Odgovor: Nasljeđivanje se prikazuje usmjerenom strelicom s otvorenim vrhom (trokut) koja ide od podklase prema nadklasi u UML dijagramu."
+    },
+    {
+        "id": "68",
+        "question": "Što je instanca?",
+        "answer": "Odgovor: Instanca je pojedinačna kopija objekta koji pripada određenoj klasi. Svaki objekt koji se stvori na temelju klase naziva se instancom te klase."
+    },
+    {
+        "id": "69",
+        "question": "Apstraktna klasa ima koje od sljedećih svojstava.",
+        "answer": "Odgovor: Apstraktna klasa ima sljedeća svojstva:\n1. Ne može se instancirati (stvoriti objekt apstraktne klase).\n2. Može sadržavati apstraktne metode koje se definiraju u podklasama.\n3. Može sadržavati konkretne metode koje se nasljeđuju u podklasama."
+    },
+    {
+        "id": "70",
+        "question": "Što predstavlja instanciranje predloška funkcije?",
+        "answer": "Odgovor: Instanciranje predloška funkcije (template function instantiation) je proces stvaranja konkretne verzije funkcije iz generičkog predloška funkcije. To se događa kada se funkcija pozove s određenim tipovima podataka, a kompilator generira funkciju s tim konkretnim tipovima."
+    },
+    {
+        "id": "71",
+        "question": "Tko je izmislio prvi relacijski model baze podataka?",
+        "answer": "Odgovor: Prvi relacijski model baze podataka izmislio je Edgar F. Codd, britanski računalni znanstvenik, 1970. godine."
+    },
+    {
+        "id": "72",
+        "question": "Koja kompanija je napravila prvu verziju SQL-a?",
+        "answer": "Odgovor: Prvu verziju SQL-a (Structured Query Language) napravila je kompanija IBM (International Business Machines Corporation)."
+    },
+    {
+        "id": "73",
+        "question": "SQL je jezik koje generacije?",
+        "answer": "Odgovor: SQL (Structured Query Language) je jezik četvrte generacije (4GL) koji se koristi za upravljanje i manipulaciju relacijskim bazama podataka."
+    },
+    {
+        "id": "74",
+        "question": "U DDL dio SQL jezika spadaju sljedeće naredbe (koje)?",
+        "answer": "Odgovor: U DDL (Data Definition Language) dio SQL jezika spadaju sljedeće naredbe:\n- CREATE TABLE\n- ALTER TABLE\n- DROP TABLE\n- CREATE INDEX\n- DROP INDEX\nOve naredbe se koriste za definiranje i upravljanje strukturom baze podataka."
+    },
+    {
+        "id": "75",
+        "question": "Kojem tipu podatka je moguće podesiti kolotaciju?",
+        "answer": "Odgovor: Kolacija (collation) se može podesiti za tip podatka CHAR i VARCHAR. Kolacija određuje kako će se sortirati i uspoređivati znakovi u tim tipovima podataka."
+    },
+    {
+        "id": "76",
+        "question": "Ukoliko je u tablicu potrebno pohraniti broj šasije koji se uvijek sastoji od 17 alfanumeričkih znakova, koji tip podatka je potrebno koristiti kako bi se zauzelo što manje prostora na disku?",
+        "answer": "Odgovor: Za pohranu broja šasije koji se uvijek sastoji od 17 alfanumeričkih znakova, najbolje je koristiti tip podatka CHAR(17) bez dodatnih kolacija ili znakovnih skupova (character sets). To će zauzeti minimalan prostor na disku jer će svaki unos uvijek zauzimati isti broj bajtova."
+    },
+    {
+        "id": "77",
+        "question": "Ukoliko je u tablicu potrebno unijeti prezime korisnika koje može biti dugačko maksimalno 50 alfanumeričkih znakova, koji tip podatka je potrebno koristiti kako bi se zauzelo što manje prostora na disku?",
+        "answer": "Odgovor: Za pohranu prezimena korisnika koje može biti dugačko maksimalno 50 alfanumeričkih znakova, najbolje je koristiti tip podatka VARCHAR(50) bez dodatnih kolacija ili znakovnih skupova (character sets). Ovo će zauzeti minimalan prostor na disku jer će samo zauzeti onoliko mjesta koliko je stvarno potrebno za svaki unos."
+    },
+    {
+        "id": "78",
+        "question": "Značenje notacije A→B je?",
+        "answer": "Odgovor: Notacija A→B označava funkcionalnu ovisnost između dvaju atributa u relacijskoj bazi podataka. To znači da se vrijednost atributa B u potpunosti određuje vrijednošću atributa A."
+    },
+    {
+        "id": "79",
+        "question": "Kada postoji tranzitivna zavisnost?",
+        "answer": "Odgovor: Tranzitivna zavisnost postoji kada postoji funkcionalna zavisnost između tri atributa A, B i C, pri čemu se A→B i B→C. To znači da se vrijednost atributa C neizravno ovisi o atributu A putem atributa B."
+    },
+    {
+        "id": "80",
+        "question": "Kojim upitom je moguće zamjeniti sljedeći upit:\nSELECT *\nFROM klijent\nWHERE imeKlijent = 'Ivan' OR imeKlijent = 'Ivana' OR imeKlijent = 'Ines';",
+        "answer": "Odgovor: Upit koji zamjenjuje navedeni upit koristi operator IN:\n\nSELECT *\nFROM klijent\nWHERE imeKlijent IN ('Ivan', 'Ivana', 'Ines');"
+    },
+    {
+        "id": "81",
+        "question": "Kojim upitom je moguće zamjeniti sljedeći upit:\nSELECT *\nFROM klijent\nWHERE prezimeKlijent LIKE '%ba%';",
+        "answer": "Odgovor: Upit koji zamjenjuje navedeni upit koristi operator LIKE s regularnim izrazom:\n\nSELECT *\nFROM klijent\nWHERE prezimeKlijent REGEXP 'ba';"
+    },
+    {
+        "id": "82",
+        "question": "Potrebno je na crtu dopisati programski kod koji će kreirati indeks koji ne dozvoljava duplikate na polju brojPutovnice:\nCREATE TABLE gost(\nid INT,\nimeGost VARCHAR(100),\nprezimeGost VARCHAR(150),\nbrojPutovnice CHAR(15),\npbrMjesto INT,\n_________________________________);",
+        "answer": "Odgovor: Da biste kreirali indeks koji ne dozvoljava duplikate na polju brojPutovnice, trebate dodati klauzulu UNIQUE CONSTRAINT u definiciju tablice. Evo ispravka:\n\nCREATE TABLE gost(\nid INT,\nimeGost VARCHAR(100),\nprezimeGost VARCHAR(150),\nbrojPutovnice CHAR(15) UNIQUE,\npbrMjesto INT\n);"
+    },
+    {
+        "id": "83",
+        "question": "Potrebno je na crtu dopisati programski kod koji će kreirati jedan indeks na poljima prezimeGost i imeGost pomoću B stabla:\nCREATE TABLE gost(\nid INT,\nimeGost VARCHAR(100),\nprezimeGost VARCHAR(150),\nbrojPutovnice CHAR(15),\npbrMjesto INT,\n_________________________________);",
+        "answer": "Odgovor: Da biste kreirali indeks na poljima prezimeGost i imeGost pomoću B stabla, trebate koristiti klauzulu INDEX. Evo ispravka:\n\nCREATE TABLE gost(\nid INT,\nimeGost VARCHAR(100),\nprezimeGost VARCHAR(150),\nbrojPutovnice CHAR(15),\npbrMjesto INT,\nINDEX prezimeImeIndex (prezimeGost, imeGost)\n);"
+    },
+    {
+        "id": "84",
+        "question": "Koliko će redaka vratiti sljedeći upit:\n\"SELECT * FROM mjesto, blagajna, hotel\"\nako se u tablici mjesto nalazi 30 n-torki, u tablici blagajna 10 n-torki, a u tablici hotel 10 n-torki?",
+        "answer": "Odgovor: Upit će vratiti 3000 redaka. To se događa kada se izvodi križanje (CROSS JOIN) između tri tablice, što rezultira umnoškom broja redaka u svakoj od tablica."
+    },
+    {
+        "id": "85",
+        "question": "Koliko će redaka vratiti sljedeći upit:\nSELECT * FROM otac, dijete\nWHERE otac.sifOtac = dijete.sifOtac\nako se u tablici otac nalazi 20 n-torki, a u tablici djete 30 n-torki?",
+        "answer": "Odgovor: Upit će vratiti 600 redaka. To se događa kada se izvodi INNER JOIN između dviju tablica s odgovarajućim uslovom."
+    },
+    {
+        "id": "86",
+        "question": "Odaberite točnu tvrdnju za DISTINCT kvantifikator?",
+        "answer": "Odgovor: DISTINCT kvantifikator se koristi za uklanjanje duplikata iz rezultata upita. To znači da će se prikazati samo jedan primjerak svake različite vrijednosti iz odabranih stupaca."
+    },
+    {
+        "id": "87",
+        "question": "Relacijska algebra A x B označava?",
+        "answer": "Odgovor: Relacijska algebra A x B označava kartezijanski produkt (Cartesian product) između dviju relacija A i B. To rezultira relacijom koja sadrži sve moguće kombinacije redaka iz obje relacije."
+    },
+    {
+        "id": "88",
+        "question": "Koja je razlika između ovih upita:\n1: \"SELECT naziv_stupca AS ime\n FROM tablica\"\n2: \"SELECT naziv_stupca ime\n FROM tablica\"",
+        "answer": "Odgovor: Razlika između navedenih upita je u načinu dodavanja naziva stupca. U prvom upitu (1), naziv stupca se dodaje koristeći ključnu riječ AS, dok se u drugom upitu (2) naziv stupca dodaje izravno nakon SELECT. Oba upita će rezultirati istim rezultatom."
+    },
+    {
+        "id": "89",
+        "question": "Relacijska algebra A ⟖ B označava?",
+        "answer": "Odgovor: Relacijska algebra A ⟖ B označava razliku između dvije relacije A i B. Rezultirajuća relacija će sadržavati sve redove koji su prisutni u relaciji A, ali nisu prisutni u relaciji B."
+    },
+    {
+        "id": "90",
+        "question": "Kojim upitom od ponuđenih će se ispisati trenutno vrijeme s MySQL poslužitelja?",
+        "answer": "Odgovor: Upit koji ispisuje trenutno vrijeme s MySQL poslužitelja koristi funkciju CURRENT_TIMESTAMP. Evo primjera:\n\nSELECT CURRENT_TIMESTAMP;"
+    },
+    {
+        "id": "91",
+        "question": "Web standarde i specifikacije postavlja?",
+        "answer": "Odgovor: Web standarde i specifikacije postavlja World Wide Web Consortium (W3C), međunarodna organizacija koja razvija i održava standarde za World Wide Web."
+    },
+    {
+        "id": "92",
+        "question": "Skup tehnika internetskog marketinga koji se odnosi na proces optimizacije internetske stranice za indeksiranje na tražilicama podrazumijeva?",
+        "answer": "Odgovor: Skup tehnika internetskog marketinga koji se odnosi na proces optimizacije internetske stranice za indeksiranje na tražilicama naziva se Search Engine Optimization (SEO)."
+    },
+    {
+        "id": "93",
+        "question": "Kojim se HTML elementom ispravno označava važan tekst?",
+        "answer": "Odgovor: Važan tekst se ispravno označava HTML elementom <strong>. Ovaj element služi za označavanje tekstualnog sadržaja koji treba biti prikazan kao podebljan i naglašen."
+    },
+    {
+        "id": "94",
+        "question": "Koji su različiti DTD-ovi u XHTML-u?",
+        "answer": "Odgovor: U XHTML-u postoje tri različita DTD-a (Document Type Definitions):\n1. XHTML 1.0 Strict\n2. XHTML 1.0 Transitional\n3. XHTML 1.0 Frameset\n\nSvaki od ovih DTD-ova definira različite nivoe stroge valjanosti i dopušta različite elemente i atribute."
+    },
+    {
+        "id": "95",
+        "question": "Element <canvas> koristi se za?",
+        "answer": "Odgovor: Element <canvas> se koristi za crtanje grafike i slika putem JavaScripta. To omogućava dinamičko iscrtavanje slika, grafikona i animacija na web stranici."
+    },
+    {
+        "id": "96",
+        "question": "Ispravna CSS sintaksa za definiranje podebljanih slova odlomka je?",
+        "answer": "Odgovor: Ispravna CSS sintaksa za definiranje podebljanih slova u odlomku je:\n\np {\n  font-weight: bold;\n}"
+    },
+    {
+        "id": "97",
+        "question": "Na koji se način postavlja obrub sa sljedećim obilježjima: gornji obrub = 10 piksela; lijevi obrub = 20 piksela; desni obrub = 1 piksela; donji obrub = 5 piksela?",
+        "answer": "Odgovor: Obrub s navedenim obilježjima se postavlja na sljedeći način pomoću CSS-a:\n\np {\n  border-top: 10px;\n  border-left: 20px;\n  border-right: 1px;\n  border-bottom: 5px;\n}"
+    },
+    {
+        "id": "98",
+        "question": "Ispravna sintaksa za definiranje nepodcrtanih linkova je?",
+        "answer": "Odgovor: Ispravna sintaksa za definiranje nepodcrtanih linkova u CSS-u je:\n\na {\n  text-decoration: none;\n}"
+    },
+    {
+        "id": "99",
+        "question": "Ispravan jQuery kod za postavljanje crvene pozadinske boje svih paragrafa koji su potomci <article> elementa je?",
+        "answer": "Odgovor: Ispravan jQuery kod za postavljanje crvene pozadinske boje svih paragrafa koji su potomci <article> elementa je:\n\n$('article p').css('background-color', 'red');"
+    },
+    {
+        "id": "100",
+        "question": "Koja se jQuery metoda koristi za sakrivanje elementa na kojeg se odnosi?",
+        "answer": "Odgovor: jQuery metoda .hide() koristi se za sakrivanje elementa na kojeg se odnosi. Primjer koda: $('element').hide();"
+    },
+    {
+        "id": "101",
+        "question": "Linija <meta charset=\"UTF-8\"> odnosi se na postavljanje odgovarajuće znakovne prikazdbe prema?",
+        "answer": "Odgovor: Linija <meta charset=\"UTF-8\"> služi za postavljanje odgovarajuće znakovne prikazbe (character encoding) prema UTF-8 standardu. UTF-8 je univerzalna znakovna prikazba koja podržava različite jezike i znakove."
+    },
+    {
+        "id": "102",
+        "question": "Koji od navedenih nije HTML atribut događaja?",
+        "answer": "Odgovor: Koji od navedenih nije HTML atribut događaja?"
+    },
+    {
+        "id": "103",
+        "question": "Koje će boje biti ispisan tekst \"Hello world\", ako je definirano:\n<div class=\"u_boji\"><h4><span>Hello world</span></h4></div>\n.u_boji span { color:red; }\n.u_boji + h4 + span { color:green; }\n.u_boji > h4 > span { color:blue; }\nspan { color:yellow; }",
+        "answer": "Odgovor: Tekst \"Hello world\" bit će isprintan u boji zelene. To se događa zbog selektora .u_boji + h4 + span koji odgovara h4 elementu koji je direktno iznad span elementa unutar div elementa s klasom \"u_boji\"."
+    },
+    {
+        "id": "104",
+        "question": "Ako proces sadrži više dretvi što one dijel?",
+        "answer": "Odgovor: Dretve (threads) dijele isti adresni prostor procesa. To znači da dretve u istom procesu dijele iste resurse kao što su varijable i memorija te mogu komunicirati međusobno bez potrebe za dodatnim mehanizmima za razmjenu podataka."
+    },
+    {
+        "id": "105",
+        "question": "Čitanje i pisanje u cjevovod radi na principu koje strukture?",
+        "answer": "Odgovor: Čitanje i pisanje u cjevovod (pipe) radi na principu FIFO (First-In-First-Out) strukture. To znači da se podaci čitaju i pišu u cjevovod u istom redoslijedu kako su stigli."
+    },
+    {
+        "id": "106",
+        "question": "Defunct proces poznat je još i pod drugim imenom (koim)?",
+        "answer": "Odgovor: Defunct proces poznat je i pod drugim imenom - zombie proces."
+    },
+    {
+        "id": "107",
+        "question": "Gdje se nalazi boot program operacijskog sustava?",
+        "answer": "Odgovor: Boot program operacijskog sustava nalazi se u prvim sektorima tvrdog diska ili na uređaju za pokretanje (npr. USB uređaju). Ovaj boot program je odgovoran za pokretanje operacijskog sustava prilikom uključivanja računala."
+    },
+    {
+        "id": "108",
+        "question": "Koja dva sučelja postoje na operacijskom sustavu?",
+        "answer": "Odgovor: Na operacijskom sustavu postoje dva osnovna sučelja - grafičko korisničko sučelje (GUI - Graphical User Interface) i tekstualno korisničko sučelje (CLI - Command Line Interface). Grafičko sučelje omogućuje korisnicima interakciju s računalom putem grafičkih elemenata, dok tekstualno sučelje korisnicima omogućuje upravljanje računalom putem tekstualnih naredbi."
+    },
+    {
+        "id": "109",
+        "question": "Koja je točna konstatacija za neiznuđenu višezadaćnost?",
+        "answer": "Odgovor: Točna konstatacija za neiznuđenu višezadaćnost (preemptive multitasking) je da operacijski sustav može prekinuti izvršavanje jednog procesa kako bi omogućio izvršavanje drugog procesa. Ovo se često koristi kako bi se osiguralo pravedno dijeljenje resursa i sprečilo da jedan proces monopolizira CPU."
+    },
+    {
+        "id": "110",
+        "question": "Koja kratica je primjer normizacije API poziva?",
+        "answer": "Odgovor: Kratica HTTP (Hypertext Transfer Protocol) je primjer normizacije API (Application Programming Interface) poziva. HTTP je protokol koji se koristi za komunikaciju između web klijenata i poslužitelja te definira standardne metode i zahtjeve za prijenos podataka preko mreže."
+    },
+    {
+        "id": "111",
+        "question": "Koji resurs je vlastit za svaku dretve?",
+        "answer": "Odgovor: Svaka dretva (thread) u procesu dijeli isti adresni prostor i resurse s ostalim dretvama u istom procesu. No, svaka dretva ima svoj vlastiti stog (stack) koji je specifičan za tu dretvu. Stog se koristi za pohranu lokalnih varijabli i poziva funkcija te je jedinstven za svaku dretvu."
+    },
+    {
+        "id": "112",
+        "question": "Koji od ovih sustava je sustav za rad u stvarnom vremenu (embedded sustav)?",
+        "answer": "Odgovor: Sustav za rad u stvarnom vremenu (real-time embedded system) je sustav koji je posebno dizajniran za obradu događaja u stvarnom vremenu. Od navedenih opcija, mikrokontroleri (microcontrollers) često se koriste kao temelj za embedded sustave."
+    },
+    {
+        "id": "113",
+        "question": "Koji proces ima PID 0 na otvorenim operacijskim sustavima?",
+        "answer": "Odgovor: Proces s PID-om 0 na otvorenim operacijskim sustavima obično se naziva 'init' proces. On je prvi proces koji se pokreće tijekom inicijalizacije sustava i služi kao roditelj svim ostalim procesima."
+    },
+    {
+        "id": "114",
+        "question": "Koji su to datotečni sustavi?",
+        "answer": "Odgovor: Datotečni sustavi su sustavi za organizaciju, pohranu i upravljanje podacima na računalima. Neki od poznatih datotečnih sustava uključuju FAT (File Allocation Table), NTFS (New Technology File System), ext4, HFS+ (Hierarchical File System Plus), i mnoge druge."
+    },
+    {
+        "id": "115",
+        "question": "Mirroring and Duplexing radi koji RAID?",
+        "answer": "Odgovor: Mirroring and Duplexing radi u okviru RAID-1 sustava. RAID-1 je sustav koji koristi dvije identične kopije podataka na različitim diskovima kako bi se osigurala redundancija i zaštita podataka. U mirroringu, svaki podatak se kopira na oba diska, dok se u duplexingu koriste dva potpuno neovisna sustava za pohranu."
+    },
+    {
+        "id": "116",
+        "question": "Od čega se sastoji digitalna slika?",
+        "answer": "Odgovor: Digitalna slika sastoji se od piksela (picture elements) koji su osnovne grafičke jedinice. Svaki piksel predstavlja maleni kvadratić koji ima određenu boju ili nijansu. Kombinacijom piksela stvara se cjelokupna slika."
+    },
+    {
+        "id": "117",
+        "question": "Što dretve međusobno dijele?",
+        "answer": "Odgovor: Dretve (threads) međusobno dijele isti adresni prostor procesa. To znači da dretve dijele memoriju, varijable i druge resurse unutar istog procesa. Ovo omogućava brzu komunikaciju i zajedničko korištenje podataka između dretvi u istom procesu."
+    },
+    {
+        "id": "118",
+        "question": "Što je adware?",
+        "answer": "Odgovor: Adware je vrsta zlonamjerne softverske aplikacije koja prikazuje neželjene reklame (oglasne poruke) korisnicima računala. Adware često dolazi uz besplatne aplikacije ili se instalira bez pristanka korisnika te može biti iritantan i ugrožavati privatnost korisnika."
+    },
+    {
+        "id": "119",
+        "question": "Što je identifikacija?",
+        "answer": "Odgovor: Identifikacija je proces utvrđivanja i potvrđivanja identiteta korisnika ili entiteta. To uključuje pružanje odgovarajućih dokaza ili informacija kako bi se potvrdila autentičnost osobe ili objekta. Identifikacija se često koristi u kontekstu sigurnosti i pristupa sustavima."
+    },
+    {
+        "id": "120",
+        "question": "Što nije standard multimedijskog diska?",
+        "answer": "Odgovor: CD-ROM (Compact Disc Read-Only Memory) nije standard multimedijskog diska. CD-ROM je optički disk koji se koristi za pohranu podataka, ali nije sposoban za snimanje novih podataka na disk. Drugi multimedijski diskovi kao što su CD-R i DVD-R omogućuju snimanje novih podataka na disk."
+    },
+    {
+        "id": "121",
+        "question": "Što se adresira na disku?",
+        "answer": "Odgovor: Na disku se adresira sektori ili blokovi podataka. Svaki sektor ima svoju jedinstvenu adresu ili identifikator koji omogućava sustavu da pronađe i pristupi određenom dijelu podataka na disku."
+    },
+    {
+        "id": "122",
+        "question": "Što se kod diskova može precizno postaviti na pojedinu ploču i kretati duž radija ploče?",
+        "answer": "Odgovor: Što se kod diskova može precizno postaviti na pojedinu ploču i kretati duž radija ploče?"
+    },
+    {
+        "id": "123",
+        "question": "DDoS napad je?",
+        "answer": "Odgovor: DDoS (Distributed Denial of Service) napad je vrsta napada na računalne sustave u kojoj veliki broj računala (obično zaraženih botova) zajedno šalje veliku količinu zahtjeva prema ciljanom sustavu ili mreži, čime se uzrokuje preopterećenje i nedostupnost sustava za legitimne korisnike."
+    },
+    {
+        "id": "124",
+        "question": "Kakve mogu biti IP adrese?",
+        "answer": "Odgovor: IP (Internet Protocol) adrese mogu biti dvije vrste: IPv4 adrese (32-bitne) i IPv6 adrese (128-bitne). IPv4 adrese se obično zapisuju u obliku četiri decimalne oktalne brojke odvojene točkom (npr. 192.168.1.1), dok se IPv6 adrese zapisuju u heksadecimalnom formatu (npr. 2001:0db8:85a3:0000:0000:8a2e:0370:7334)."
+    },
+    {
+        "id": "125",
+        "question": "Navedite dva osnovna tipa RAM memorije.",
+        "answer": "Odgovor: Dva osnovna tipa RAM (Random Access Memory) memorije su:\n1. DRAM (Dynamic Random Access Memory): DRAM je vrsta RAM-a koja zahtijeva periodično osvježavanje podataka kako bi se očuvali. To je česta vrsta memorije u računalima.\n2. SRAM (Static Random Access Memory): SRAM je vrsta RAM-a koja ne zahtijeva osvježavanje podataka i brža je od DRAM-a, ali je skuplja i koristi se u posebnim aplikacijama."
+    },
+    {
+        "id": "126",
+        "question": "Spam je?",
+        "answer": "Odgovor: Spam je neželjena elektronička pošta ili komunikacija koja se šalje korisnicima bez njihova pristanka. Spam obično sadrži reklamne poruke, phishing pokušaje, ili druge neželjene informacije i često služi za promociju proizvoda ili usluga."
+    },
+    {
+        "id": "127",
+        "question": "Što je firmware?",
+        "answer": "Odgovor: Firmware je vrsta softverske programske opreme koja je ugrađena u elektroničke uređaje ili komponente i obično se nalazi na čipovima ili uređajima s trajnom memorijom. Firmware služi za upravljanje hardverskim funkcijama uređaja, kao što su BIOS u računalima ili upravljački programi u uređajima."
+    },
+    {
+        "id": "128",
+        "question": "Što je LAN (Local Area Network)?",
+        "answer": "Odgovor: LAN (Local Area Network) je mreža koja povezuje računalne uređaje unutar ograničenog geografskog područja, kao što su jedna zgrada, ured, ili kuća. LAN omogućava uređajima međusobnu komunikaciju, dijeljenje resursa (poput printera ili datoteka) i pristup zajedničkoj internet vezi."
+    },
+    {
+        "id": "129",
+        "question": "Što je OSI model i koliko ima slojeva?",
+        "answer": "Odgovor: OSI (Open Systems Interconnection) model je konceptualni model koji definira sedam slojeva koji opisuju različite aspekte komunikacije između računala ili uređaja u mrežama. Ovi slojevi su:\n1. Fizički sloj\n2. Datalink sloj\n3. Mrežni sloj\n4. Transportni sloj\n5. Sjednički sloj\n6. Prezentacijski sloj\n7. Aplikacijski sloj\nOSI model pruža okvir za razumijevanje i projektiranje mrežnih protokola."
+    },
+    {
+        "id": "130",
+        "question": "Što je POST proces kod uključivanja računala?",
+        "answer": "Odgovor: POST (Power-On Self-Test) proces je automatski dijagnostički test koji se izvodi prilikom uključivanja računala ili prilikom ponovnog pokretanja. POST provjerava ispravnost hardverskih komponenti računala, uključujući RAM, CPU, grafičku karticu i druge komponente. Ako se tijekom POST-a otkriju problemi, računalo može generirati zvučne signale ili prikazati poruke o greškama."
+    },
+    {
+        "id": "131",
+        "question": "Što su računalni virusi?",
+        "answer": "Odgovor: Računalni virusi su zlonamerni softverski programi koji se šire i kopiraju sami od sebe, obično uz pomoć drugih datoteka ili programa. Virus se može pričvrstiti na izvršne datoteke ili dokumente te se aktivira kada se ti sadržaji pokrenu. Virus može nanijeti štetu računalima, brisati podatke, ili širiti druge vrste zlonamjernih aktivnosti."
+    },
+    {
+        "id": "132",
+        "question": "Što su sabirnice?",
+        "answer": "Odgovor: Sabirnice su komunikacijski putevi unutar računalnog sustava ili komponenti koje omogućuju prijenos podataka između različitih dijelova sustava. To uključuje prijenos podataka između procesora, memorije, perifernih uređaja i drugih komponenata. Sabirnice su bitna komponenta arhitekture računala za brzi i učinkoviti prijenos podataka."
+    },
+    {
+        "id": "133",
+        "question": "Što se podrazumijeva i kako se ostvaruje elektronička suradnja (kolaboracija) ureda?",
+        "answer": "Odgovor: Elektronička suradnja (kolaboracija) ureda podrazumijeva proces suradnje između različitih djelatnika i odjela unutar ureda koristeći informacijske tehnologije. To uključuje zajedničko dijeljenje informacija, dokumenata i resursa te međusobnu komunikaciju. Ostvaruje se korištenjem alata kao što su e-pošta, intranet, razmjena datoteka, video sastanci i druge kolaboracijske platforme."
+    },
+    {
+        "id": "134",
+        "question": "Kojim se tehnologijama ostvaruje univerzalna komunikacija svih dionika uredskog poslovanja?",
+        "answer": "Odgovor: Univerzalna komunikacija svih dionika uredskog poslovanja ostvaruje se korištenjem različitih tehnologija, uključujući e-poštu, VoIP telefoniju, video konferencije, chat sustave, društvene mreže za poslovnu uporabu (npr. Microsoft Teams, Slack), projektne alate za suradnju (npr. SharePoint), zajedničke platforme za dokumente (npr. Google Workspace, Microsoft Office 365) te integraciju različitih alata kako bi se omogućila glatka komunikacija i suradnja među dionicima uredskog poslovanja."
+    },
+    {
+        "id": "135",
+        "question": "Na čemu se temelji sustav za upravljanje postignućima (outcome management)?",
+        "answer": "Odgovor: Sustav za upravljanje postignućima (outcome management) temelji se na praćenju, analizi i upravljanju rezultatima i postignućima organizacije ili projekta. Ključni elementi ovog sustava uključuju postavljanje ciljeva, praćenje napretka prema tim ciljevima, mjerenje rezultata, evaluaciju učinka te donošenje odluka i akcija temeljenih na prikupljenim podacima kako bi se postigli željeni ishodi i poboljšala učinkovitost."
+    },
+    {
+        "id": "136",
+        "question": "Navedite funkcionalna područja sustava za upravljanje događajima.",
+        "answer": "Odgovor: Funkcionalna područja sustava za upravljanje događajima uključuju:\n1. Prikupljanje događaja: Sustav prikuplja podatke o događajima iz različitih izvora, kao što su senzori, aplikacije ili log datoteke.\n2. Analiza događaja: Analizira se prikupljene događaje kako bi se identificirali važni ili značajni događaji te prepoznale abnormalnosti.\n3. Upozorenja i obavijesti: Sustav generira upozorenja i obavijesti o važnim događajima ili problemima koji zahtijevaju pažnju ili akciju.\n4. Arhiviranje i pohrana: Događaji se arhiviraju i pohranjuju radi buduće analize i referenciranja.\n5. Izvještavanje: Generiraju se izvještaji o događajima i učincima te se koriste za donošenje odluka i praćenje performansi."
+    },
+    {
+        "id": "137",
+        "question": "Navedite generičke elektroničke tehnologije za potporu upravljanja u poslovnim sustavima.",
+        "answer": "Odgovor: Generičke elektroničke tehnologije za potporu upravljanju u poslovnim sustavima uključuju:\n1. Baze podataka: Za pohranu, upravljanje i pristup podacima u poslovnom okruženju.\n2. Web servisi: Za omogućavanje komunikacije između različitih aplikacija i sustava putem interneta.\n3. Cloud computing: Za skalabilno i dostupno računalstvo putem internetskog oblaka.\n4. Poslovna analitika: Za analizu podataka i donošenje poslovnih odluka.\n5. Integracijski alati: Za integraciju različitih aplikacija i sustava kako bi se omogućila glatka komunikacija i suradnja.\n6. Sigurnosni alati: Za zaštitu podataka i mreža od prijetnji i neovlaštenog pristupa."
+    },
+    {
+        "id": "138",
+        "question": "Navedite koja područja i procese elektroničkog poslovanja pokriva univerzalni poslovni jezik.",
+        "answer": "Odgovor: Univerzalni poslovni jezik (UBL - Universal Business Language) pokriva različita područja i procese elektroničkog poslovanja, uključujući:\n1. Narudžbenice i ponude: Generiranje, razmjena i obrada narudžbenica i ponuda između poslovnih partnera.\n2. Fakturiranje: Izrada i razmjena računa i faktura.\n3. Transportna dokumentacija: Elektronička razmjena podataka o transportu i dostavi robe.\n4. Inventar i zalihe: Praćenje i upravljanje zalihama proizvoda i resursa.\n5. Upravljanje odnosima s dobavljačima i kupcima: Održavanje i upravljanje poslovnim odnosima sa svim dionicima.\n6. Financijsko upravljanje: Praćenje financijskih transakcija i izvještavanje o financijskim performansama.\n7. Ostali poslovni procesi: UBL može pokriti i druge poslovne procese kako bi se omogućila standardizirana razmjena podataka između poslovnih subjekata."
+    },
+    {
+        "id": "139",
+        "question": "Navedite načine identifikacije proizvoda u elektroničkim sustavima.",
+        "answer": "Odgovor: Identifikacija proizvoda u elektroničkim sustavima može se provoditi na različite načine, uključujući:\n1. Barkodovi: Korištenje barkodova ili QR kodova za jedinstvenu identifikaciju proizvoda.\n2. RFID (Radio-Frequency Identification): Korištenje RFID oznaka za bežično praćenje i identifikaciju proizvoda.\n3. Serijski brojevi: Dodjeljivanje jedinstvenih serijskih brojeva svakom proizvodu radi identifikacije.\n4. QR kodovi: Korištenje QR kodova za brzu identifikaciju i pristup dodatnim informacijama o proizvodu.\n5. Elektroničke oznake: Korištenje elektroničkih oznaka i senzora za praćenje i identifikaciju proizvoda u stvarnom vremenu.\n6. NFC (Near-Field Communication): Korištenje NFC tehnologije za blisku komunikaciju i identifikaciju proizvoda pomoću pametnih uređaja."
+    },
+    {
+        "id": "140",
+        "question": "Navedite nivoe i oblike organizacije ureda.",
+        "answer": "Odgovor: Organizacija ureda može varirati u različitim nivoima i oblicima, uključujući:\n1. Tradicionalni ured: Klasični uredski prostor s fiksnim radnim stolovima i kabinetima.\n2. Fleksibilni ured: Uredski prostor koji omogućuje fleksibilnost u korištenju radnih mjesta i rasporedu radnog vremena.\n3. Virtualni ured: Poslovanje koje nema fizički ured, već se temelji na udaljenom radu i komunikaciji putem interneta.\n4. Coworking prostor: Prostor koji se dijeli između različitih organizacija i samostalnih profesionalaca.\n5. Mreža ureda: Organizacija koja ima više ureda na različitim lokacijama koje su povezane tehnologijom i infrastrukturom.\n6. Hibridni modeli: Kombinacija različitih oblika organizacije ureda kako bi se zadovoljile specifične potrebe i zahtjevi organizacije."
+    },
+    {
+        "id": "141",
+        "question": "Navedite obuhvat funkcionalnosti standardnog projekta uredskog poslovanja.",
+        "answer": "Odgovor: Standardni projekt uredskog poslovanja obuhvaća različite funkcionalnosti, uključujući:\n1. Upravljanje dokumentima: Praćenje i upravljanje dokumentima, uključujući stvaranje, uređivanje, dijeljenje i arhiviranje.\n2. Kalendar i sastanci: Upravljanje vremenom i rasporedom sastanaka te dijeljenje kalendara.\n3. Zadaci i projektne liste: Praćenje i upravljanje zadacima, rokovima i projektima.\n4. Komunikacija i suradnja: Mogućnost komunikacije putem e-pošte, chat-a, video sastanaka i suradnje na dokumentima.\n5. Kontakti i adresari: Upravljanje kontaktima i adresarima poslovnih partnera i kolega.\n6. Intranet i portal za zaposlenike: Internetska stranica za internu komunikaciju, obavijesti i resurse za zaposlenike.\n7. Praćenje resursa: Praćenje korištenja resursa poput računala, uredske opreme i prostora.\n8. Sigurnost i pristup: Osiguravanje sigurnog pristupa i zaštite podataka."
+    },
+    {
+        "id": "142",
+        "question": "Navedite skup procesa elektroničke kupnje proizvoda.",
+        "answer": "Odgovor: Skup procesa elektroničke kupnje proizvoda uključuje:\n1. Pretraživanje i odabir: Korisnik pregledava online katalog proizvoda, uspoređuje opcije i odabire željeni proizvod.\n2. Dodavanje u košaricu: Odabrani proizvodi dodaju se virtualnoj košarici za kupnju.\n3. Plaćanje: Korisnik odabire način plaćanja, unosi podatke o kartici ili koristi druge metode plaćanja.\n4. Potvrda narudžbe: Nakon plaćanja, korisnik prima potvrdu narudžbe s detaljima transakcije.\n5. Dostava i praćenje: Proizvodi se dostavljaju na odabranu adresu, a korisnik može pratiti status dostave.\n6. Povrat i reklamacije: U slučaju problema ili nezadovoljstva, korisnik može podnijeti zahtjev za povrat ili reklamaciju.\n7. Recenzije i ocjene: Korisnici mogu ostaviti recenzije i ocjene proizvoda kako bi pomogli drugim potrošačima u odabiru.\n8. Korisnička podrška: Osiguravanje podrške korisnicima za rješavanje problema ili pitanja vezanih uz kupnju."
+    },
+    {
+        "id": "143",
+        "question": "Naveditete domene sigurnosti i zaštite elektroničkog poslovanja.",
+        "answer": "Odgovor: Domene sigurnosti i zaštite elektroničkog poslovanja uključuju različite aspekte, kao što su:\n1. Zaštita podataka: Osiguravanje povjerljivosti, integriteta i dostupnosti podataka.\n2. Mrežna sigurnost: Zaštita mrežne infrastrukture od neovlaštenih pristupa i prijetnji.\n3. Identifikacija i autentifikacija: Provjera identiteta korisnika i uređaja koji pristupaju sustavu.\n4. Sigurnost aplikacija: Zaštita aplikacija od ranjivosti i napada.\n5. Sigurnost elektroničkih transakcija: Osiguravanje sigurnih elektroničkih plaćanja i transakcija.\n6. Zaštita od zlonamjernog softvera: Sprječavanje i otkrivanje računalnih virusa, zlonamjernog softvera i malware-a.\n7. Fizička sigurnost: Zaštita fizičkog prostora i opreme od neovlaštenog pristupa i štete.\n8. Upravljanje identitetima i pristupom: Upravljanje pravima pristupa korisnika i kontrola privilegija.\n9. Obuka i svijest korisnika: Edukacija korisnika o sigurnosnim praksama i prijetnjama.\n10. Incident odgovor: Planiranje i reagiranje na sigurnosne incidente i napade."
+    },
+    {
+        "id": "144",
+        "question": "Opišite cilj i tehnološke komponente za ostvarivanje suradnje virtualnih timova.",
+        "answer": "Odgovor: Cilj suradnje virtualnih timova je omogućiti udaljenim članovima tima da surađuju, komuniciraju i rade zajedno na projektima i zadacima bez obzira na fizičku udaljenost. Tehnološke komponente za ostvarivanje suradnje virtualnih timova uključuju:\n1. Kolaboracijske platforme: Alati i softveri za zajedničko dijeljenje dokumenata, zadatka, rasporeda i komunikaciju.\n2. Video konferencije: Mogućnost održavanja virtualnih sastanaka s video komunikacijom i dijeljenjem zaslona.\n3. Cloud usluge: Pohrana i pristup datotekama i resursima u oblaku radi jednostavne dostupnosti.\n4. Chat i instant messaging: Brza komunikacija putem poruka između članova tima.\n5. Projektni alati: Softveri za praćenje i upravljanje projektima, zadacima i rokovima.\n6. Upravljanje dokumentima: Sustavi za organizaciju i dijeljenje dokumenata u virtualnom okruženju.\n7. Sigurnost i zaštita podataka: Sigurnosne mjere kako bi se osigurala zaštita osjetljivih podataka i informacija.\n8. Obuka i podrška: Edukacija timova o korištenju alata i tehnikama za učinkovitu suradnju."
+    },
+    {
+        "id": "145",
+        "question": "Pod pojmom EDI u elektroničkom poslovanju podrazumijeva se:",
+        "answer": "Odgovor: Pod pojmom EDI (Electronic Data Interchange) u elektroničkom poslovanju podrazumijeva se elektronička razmjena strukturiranih poslovnih dokumenata, kao što su narudžbenice, računi i potvrde, između različitih poslovnih partnera putem standardiziranih formata i komunikacijskih protokola. EDI omogućava automatiziranu i učinkovitu razmjenu podataka između organizacija bez potrebe za ručnim unosom ili papirom, što ubrzava poslovne procese i smanjuje greške."
+    },
+    {
+        "id": "146",
+        "question": "Prikažite postupke elektroničke pripreme i otpreme kupljenih proizvoda na mjesta isporuke.",
+        "answer": "Odgovor: Postupci elektroničke pripreme i otpreme kupljenih proizvoda na mjesta isporuke uključuju sljedeće korake:\n1. Narudžba: Kupac elektronički šalje narudžbu ili upit za kupnju proizvoda.\n2. Potvrda narudžbe: Prodavatelj prima narudžbu, provjerava dostupnost proizvoda i šalje potvrdu narudžbe kupcu.\n3. Priprema proizvoda: Prodavatelj priprema naručene proizvode za otpremu, uključujući pakiranje i označavanje.\n4. Slanje informacija: Prodavatelj šalje informacije o narudžbi i proizvodima logističkom partneru ili isporučitelju.\n5. Praćenje dostave: Kupac i prodavatelj prate status dostave elektroničkim putem, koristeći informacije o praćenju.\n6. Isporuka: Proizvodi se dostavljaju na odredište kupca, a kupac potvrđuje primitak.\n7. Fakturiranje: Prodavatelj izdaje račun za isporučene proizvode elektroničkim putem.\n8. Plaćanje: Kupac izvršava elektroničko plaćanje prema primljenom računu."
+    },
+    {
+        "id": "147",
+        "question": "Što je i kako se ostvaruje virtualni poslovni sustav?",
+        "answer": "Odgovor: Virtualni poslovni sustav je poslovni model ili okruženje u kojem organizacija posluje bez fizičke prisutnosti ili minimalne fizičke infrastrukture. Ostvaruje se putem digitalnih tehnologija i informacijske infrastrukture. Ključne komponente i koraci za ostvarivanje virtualnog poslovnog sustava uključuju:\n1. Cloud computing: Korištenje oblaka za pohranu podataka, aplikacija i resursa.\n2. Mobilna tehnologija: Omogućavanje pristupa sustavu putem mobilnih uređaja.\n3. Virtualni uredski alati: Korištenje alata za udaljeni rad, komunikaciju i suradnju.\n4. Sigurnost i zaštita: Implementacija sigurnosnih mjera kako bi se osigurala sigurnost podataka i komunikacije.\n5. Upravljanje udaljenim timovima: Postavljanje procesa i praksi za upravljanje udaljenim zaposlenicima i projektima.\n6. Virtualna komunikacija: Korištenje video konferencija, chatova i drugih sredstava za komunikaciju između članova tima i partnera.\n7. Prilagodba poslovnog modela: Prilagodba poslovnog modela kako bi se omogućila udaljena suradnja i virtualno poslovanje."
+    },
+    {
+        "id": "148",
+        "question": "Što je i kako se ostvaruje virtualni ured?",
+        "answer": "Odgovor: Virtualni ured je poslovni model u kojem organizacija nema fizički prisutan ured, već koristi virtualne alate i tehnologije za obavljanje poslovnih aktivnosti. Ostvaruje se na sljedeći način:\n1. Udaljeni rad: Zaposlenici rade od kuće ili drugih lokacija putem interneta.\n2. Cloud tehnologija: Koristi se cloud computing za pohranu i pristup podacima i aplikacijama.\n3. Kolaboracijski alati: Korištenje alata za virtualnu komunikaciju, projektne upravljače i udaljenu suradnju.\n4. Virtualna telefonska rješenja: Korištenje virtualnih telefonskih sustava i VoIP tehnologije za komunikaciju s klijentima i partnerima.\n5. Upravljanje udaljenim timovima: Postavljanje pravila i procesa za upravljanje udaljenim zaposlenicima i projektima.\n6. Online prisutnost: Razvoj internetske prisutnosti putem web stranica, društvenih medija i drugih digitalnih kanala.\n7. Sigurnost podataka: Implementacija sigurnosnih mjera kako bi se zaštitili osjetljivi podaci i komunikacija.\n8. Upravljanje resursima: Praćenje i upravljanje resursima poput financija, ljudi i opreme."
+    },
+    {
+        "id": "149",
+        "question": "Što je i na čemu se temelji ebXML?",
+        "answer": "Odgovor: ebXML (Electronic Business XML) je standard za elektroničko poslovanje koji se temelji na XML (eXtensible Markup Language) tehnologiji. Osnovan je s ciljem olakšavanja elektroničke razmjene podataka i poslovnih transakcija između organizacija putem interneta. Ključne značajke ebXML-a uključuju:\n1. XML format: Koristi XML za strukturiranje podataka i dokumenata radi jednostavne razmjene.\n2. Globalni standardi: Pridržava se globalnih standarda za elektroničku razmjenu podataka i poslovnih procesa.\n3. Široka primjena: Može se koristiti u različitim industrijama i poslovnim sektorima.\n4. Potvrda dostave: Omogućava potvrdu dostave elektroničkih dokumenata i poruka.\n5. Razmjena metapodataka: Pruža mehanizme za razmjenu metapodataka o poslovnim partnerima i procesima.\n6. Sigurnost: Uključuje sigurnosne mehanizme kako bi se osigurala zaštita podataka i komunikacije."
+    },
+    {
+        "id": "150",
+        "question": "Što je krađa identiteta i uloga zaštite identiteta u uredskom poslovanju.",
+        "answer": "Odgovor: Krađa identiteta je zločinački čin u kojem pojedinac neovlašteno preuzima identitet druge osobe kako bi ostvario financijsku dobit, pristupio osjetljivim informacijama ili izvršio druge ilegalne radnje u ime te osobe. U uredskom poslovanju, zaštita identiteta igra ključnu ulogu u sprečavanju takvih prijetnji. To uključuje:\n1. Identifikacija i autentifikacija: Provjera identiteta korisnika putem pristupnih informacija kao što su lozinke, biometrija ili dvofaktorska autentifikacija.\n2. Praćenje i detekcija: Praćenje sumnjivih aktivnosti i detekcija nepravilnosti u uporabi identiteta.\n3. Edukacija korisnika: Obuka zaposlenika o sigurnosnim praksama kako bi se spriječilo dijeljenje osjetljivih informacija ili pristupnih podataka.\n4. Sigurnosni sustavi: Implementacija sigurnosnih rješenja za zaštitu korisničkih računa i podataka.\n5. Pravna regulativa: Pridržavanje zakona i regulativa koji se odnose na zaštitu identiteta i privatnosti korisnika."
+    },
+    {
+        "id": "151",
+        "question": "Što omogućuje jedinstveno europsko elektroničko tržište?",
+        "answer": "Odgovor: Jedinstveno europsko elektroničko tržište, također poznato kao Jedinstveno digitalno tržište (Single Digital Market), omogućuje slobodan protok digitalnih usluga, proizvoda i podataka između članica Europske unije. Glavni ciljevi i prednosti jedinstvenog europskog elektroničkog tržišta uključuju:\n1. Eliminacija prepreka: Uklanjanje prepreka i barijera za trgovinu digitalnim proizvodima i uslugama unutar EU-a.\n2. Povećanje konkurencije: Poticanje konkurencije među tvrtkama i inovatorima na europskoj razini.\n3. Jednake prilike: Stvaranje jednakih prilika za male i srednje tvrtke te startupove da se natječu na tržištu.\n4. Veći izbor za potrošače: Povećanje izbora i konkurentnosti proizvoda i usluga za potrošače.\n5. Digitalna ekonomija: Poticanje rasta i razvoja digitalne ekonomije u EU-u.\n6. Dostupnost i pristup: Osiguranje dostupnosti digitalnih usluga i tehnologija svim građanima EU-a."
+    },
+    {
+        "id": "152",
+        "question": "Što se podrazumijeva pod pojmom ured?",
+        "answer": "Odgovor: Pojam 'ured' obično se odnosi na fizički ili virtualni prostor u kojem se obavljaju administrativni, upravni i poslovni zadaci. U fizičkom smislu, ured je prostorija ili zgrada opremljena radnim stolovima, računalima, komunikacijskom opremom i drugim sredstvima potrebnima za obavljanje poslovnih aktivnosti. U širem smislu, ured može predstavljati i organizaciju, poslovnu jedinicu ili tim koji obavlja administrativne i upravne funkcije. U današnjem digitalnom dobu, koncept virtualnog ureda također postoji, što omogućuje rad bez fizičke prisutnosti u istoj zgradi."
+    },
+    {
+        "id": "153",
+        "question": "Koje su prednosti AAA (Authentication, Authorization and Accounting) identifikacije? (ima više odgovora)",
+        "answer": "Odgovor: AAA (Authentication, Authorization and Accounting) identifikacija pruža niz prednosti u računalnim sustavima i mrežama, uključujući:\n1. Sigurnost: Osigurava da samo ovlaštene osobe ili uređaji imaju pristup sustavu ili mreži.\n2. Zaštita podataka: Pomogućava zaštitu osjetljivih podataka i informacija od neovlaštenog pristupa.\n3. Kontrola pristupa: Omogućava precizno upravljanje tko može pristupiti određenim resursima ili funkcionalnostima.\n4. Praćenje aktivnosti: Pruža evidenciju o tome tko, kada i kako koristi sustav ili mrežu, što je korisno za sigurnosno praćenje i forenziku.\n5. Auditi i revizija: Olakšava provođenje sigurnosnih auditiranja i revizija kako bi se osiguralo da se pridržavaju sigurnosni standardi i politike organizacije.\n6. Učinkovito upravljanje resursima: Omogućava bolje upravljanje resursima, budžetiranjem i alokacijom u organizaciji.\n7. Jednostavnost upravljanja: Smanjuje potrebu za ručnim dodjeljivanjem pristupa i omogućava centralizirano upravljanje pravima pristupa."
+    },
+    {
+        "id": "154",
+        "question": "Što je Asymmetric Digital Subscriber Line - ADSL? (ima više odgovora)",
+        "answer": "Odgovor: Asymmetric Digital Subscriber Line (ADSL) je tehnologija za širokopojasni internet putem telefonske linije koja nudi više brzine za prijenos podataka prema korisniku nego u obratnom smjeru. ADSL ima nekoliko karakteristika i prednosti:\n1. Asimetrična brzina: ADSL nudi veće brzine za preuzimanje podataka (downstream) nego za slanje podataka (upstream). To je prikladno za većinu kućnih korisnika koji više preuzimaju nego što šalju podatke na internetu.\n2. Uporaba postojeće telefonske infrastrukture: ADSL koristi postojeće bakrene telefonske linije kako bi pružio širokopojasni pristup internetu, što znači da korisnicima nije potrebna nova infrastruktura.\n3. Brzo preuzimanje sadržaja: ADSL omogućava brzo preuzimanje web stranica, video sadržaja i drugih datoteka s interneta.\n4. Prijateljski prema korisnicima: ADSL tehnologija je jednostavna za postavljanje i korištenje, što je čini prikladnom za kućne korisnike."
+    },
+    {
+        "id": "155",
+        "question": "Što je Quality of Services?",
+        "answer": "Odgovor: Quality of Service (QoS) je skup tehnika i mehanizama u računalnim mrežama koji se koriste za upravljanje i osiguranje kvalitete usluge prilikom prijenosa podataka. QoS se primjenjuje kako bi se zadovoljile različite potrebe i zahtjevi aplikacija i korisnika na mreži. Ključne komponente QoS-a uključuju:\n1. Prioriteti i klasifikacija: Postavljanje prioriteta za različite vrste prometa kako bi se osigurala bolja usluga za odabrane aplikacije ili korisnike.\n2. Bandwidth management: Upravljanje raspoloživim propusnim opsegom kako bi se osigurao dovoljan kapacitet za kritični promet.\n3. Latencija i jitter kontrola: Smanjenje zakašnjenja (latencije) i fluktuacija zakašnjenja (jitter) kako bi se poboljšala kvaliteta komunikacije, posebno u realnom vremenu, kao što su glasovni i video pozivi.\n4. Kontrola opterećenja: Praćenje i kontrola opterećenja na mreži kako bi se izbjegle zagušenja i prekidi u usluzi.\n5. Upravljanje prometom: Upravljanje i ograničenje prometa prema politikama i pravilima organizacije.\n6. Sigurnost i pouzdanost: Osiguranje da se kritični podaci prenose sigurno i pouzdano.\n7. Adaptacija na prometne uvjete: Prilagodba parametara QoS-a ovisno o trenutačnim prometnim uvjetima na mreži."
+    },
+    {
+        "id": "156",
+        "question": "Što je usmjernik (router)?",
+        "answer": "Odgovor: Usmjernik (router) je mrežni uređaj koji se koristi za povezivanje različitih mreža i usmjeravanje podataka između njih. Glavna uloga usmjernika je odabir najboljeg puta za prijenos podataka između izvora i odredišta na mreži. Ključne karakteristike usmjernika uključuju:\n1. Usmjeravanje paketa: Usmjernik analizira odredište svakog paketa koji prolazi kroz njega i odlučuje kamo ga proslijediti na temelju najboljeg dostupnog puta.\n2. Interkonekcija mreža: Usmjernik omogućava povezivanje različitih mreža, uključujući lokalnu mrežu (LAN) i široku mrežu (WAN).\n3. NAT (Network Address Translation): Usmjernik može izvoditi NAT kako bi prevođenjem IP adresa omogućio više uređaja da dijele istu javnu IP adresu.\n4. Firewall: Mnogi suvremeni usmjernici uključuju firewall funkcionalnost za dodatnu sigurnost mreže.\n5. DHCP (Dynamic Host Configuration Protocol): Usmjernik može dodijeliti dinamičke IP adrese uređajima na lokalnoj mreži.\n6. QoS (Quality of Service): Usmjernik može podržavati QoS kako bi pružio bolju kvalitetu usluge za određeni promet na mreži."
+    },
+    {
+        "id": "157",
+        "question": "Što od navedenog se odnosi na HTTPS (HyperText Transfer Protocol Secure) internetski protokol? (ima više odgovora)",
+        "answer": "Odgovor: HTTPS (HyperText Transfer Protocol Secure) je internetski protokol koji se odnosi na sljedeće karakteristike:\n1. Sigurnost komunikacije: HTTPS osigurava sigurnu komunikaciju između web preglednika korisnika i web poslužitelja putem kriptografije.\n2. Enkripcija podataka: HTTPS šifrira podatke koji se prenose između preglednika i poslužitelja kako bi se spriječilo neovlašteno čitanje ili manipulacija podacima.\n3. Certifikati: Web poslužitelji koji podržavaju HTTPS koriste digitalne certifikate kako bi potvrdili svoj identitet i osigurali da komunikacija ide s pouzdanim izvorom.\n4. Zaštita od napada: HTTPS pomaže u zaštiti od različitih vrsta napada, uključujući man-in-the-middle napade i prisluškivanje prometa.\n5. Privatnost korisnika: HTTPS pomaže u zaštiti privatnosti korisnika tako da osjetljive informacije poput lozinki i financijskih podataka ostanu sigurne tijekom prijenosa preko interneta.\n6. SEO prednosti: Google i druge tražilice daju prednost web stranicama koje koriste HTTPS prilikom rangiranja rezultata pretrage.\n7. Identifikacija sigurnih web stranica: Preglednici često prikazuju simbole sigurnosti (npr. zeleni lokot) kako bi korisnicima olakšali prepoznavanje sigurnih web stranica."
+    },
+    {
+        "id": "158",
+        "question": "Što od navedenog se odnosi na Wide Area Network (WAN)?",
+        "answer": "Odgovor: Wide Area Network (WAN) je vrsta mreže koja povezuje računalne uređaje i mreže na većim geografskim udaljenostima, obično preko različitih mjesta ili gradova. To uključuje sljedeće karakteristike i elemente:\n1. Velika udaljenost: WAN obično pokriva velike geografske udaljenosti, uključujući države, regije i čak kontinente.\n2. Više lokalnih mreža: WAN povezuje više lokalnih mreža (LAN-ova) kako bi omogućio komunikaciju između njih.\n3. Korištenje različitih tehnologija: WAN može koristiti različite tehnologije za prijenos podataka, uključujući optičke vlakna, satelitske veze, bežične veze i telefonske linije.\n4. Velika propusnost: WAN mora imati dovoljno propusnosti kako bi podržao prijenos podataka na velikim udaljenostima.\n5. Upravljanje i sigurnost: WAN mreže često zahtijevaju sofisticirano upravljanje, sigurnosne mjere i protokole za osiguranje pouzdanosti i sigurnosti komunikacije.\n6. Internet kao WAN: Internet je globalna WAN infrastruktura koja omogućava globalnu komunikaciju između uređaja i mreža."
+    },
+    {
+        "id": "159",
+        "question": "Što podrazumijeva autentifikacija (eng. Autentication) u računalnim sustavima?",
+        "answer": "Odgovor: Autentifikacija u računalnim sustavima podrazumijeva proces provjere identiteta korisnika, uređaja ili aplikacije kako bi se osiguralo da su ovlaštene za pristup određenim resursima ili funkcionalnostima. Ključni aspekti autentifikacije uključuju:\n1. Identifikacija: Korisnik, uređaj ili aplikacija pruža neki oblik identifikacijskih podataka kako bi pokazao svoj identitet. To može uključivati korisničko ime, ID broj, digitalni certifikat ili drugi identifikator.\n2. Verifikacija: Sustav provjerava pružene identifikacijske podatke kako bi potvrdio da su točni i povezani s valjanim korisničkim računom ili entitetom.\n3. Autentifikacijski čimbenici: Autentifikacija može koristiti različite čimbenike kao što su lozinke, biometrija (npr. otisak prsta ili prepoznavanje lica), pametne kartice, tokeni i druge metode za potvrdu identiteta.\n4. Višefaktorska autentifikacija: Višefaktorska autentifikacija (MFA) koristi više autentifikacijskih čimbenika kako bi dodatno osigurala identitet, što može uključivati nešto što korisnik zna (lozinka), nešto što posjeduje (token) i nešto što je (biometrija).\n5. Sigurnost autentifikacije: Sigurnost autentifikacije uključuje zaštitu autentifikacijskih podataka od neovlaštenog pristupa ili krađe kako bi se osigurala integritet procesa autentifikacije.\n6. Oporavak računa: Sustavi obično pružaju mehanizme oporavka računa u slučaju zaboravljene lozinke ili gubitka autentifikacijskih čimbenika.\n7. Jednokratna autentifikacija: U nekim slučajevima, koristi se jednokratna autentifikacija (OTP) koja generira jednokratni kod za svaku prijavu kako bi se povećala sigurnost."
+    },
+    {
+        "id": "160",
+        "question": "Što podrazumijeva autorizacija (eng. Authorization) u računalnim sustavima?",
+        "answer": "Odgovor: Autorizacija (Authorization) u računalnim sustavima podrazumijeva proces odobravanja prava pristupa ili ovlasti korisniku, uređaju ili aplikaciji nakon što je uspješno autentificiran. Autorizacija se bavi pitanjem što ovlaštena entiteta (kao što su korisnici) mogu raditi unutar sustava nakon što su pristupili resursima ili funkcionalnostima. Ključni aspekti autorizacije uključuju:\n1. Prava pristupa: Definiranje i upravljanje pravima pristupa koja ovlašteni entiteti imaju za pojedine resurse, datoteke, servise ili funkcionalnosti sustava.\n2. Upravljanje privilegijama: Održavanje privilegija i uloga unutar sustava kako bi se osiguralo da korisnici dobiju samo one privilegije koje su im potrebne za obavljanje svojih zadataka.\n3. Politike autorizacije: Postavljanje politika i pravila koja određuju kako će se dodjeljivati ovlasti i prava pristupa.\n4. Upravljanje identitetima: Integracija autorizacije s procesima upravljanja identitetima kako bi se automatski pristupale ovlasti i uloge na temelju promjena u korisničkim računima ili statusu.\n5. Ograničenje pristupa: Mogućnost ograničavanja pristupa određenim resursima ili funkcionalnostima kako bi se osigurala sigurnost i integritet sustava.\n6. Praćenje i revizija: Praćenje aktivnosti ovlaštenih entiteta kako bi se osiguralo da se pridržavaju politika autorizacije i detektirale neovlaštene aktivnosti."
+    },
+    {
+        "id": "161",
+        "question": "Što predstavlja DNS (Domain Name System) sustav?",
+        "answer": "Odgovor: DNS (Domain Name System) sustav je sustav koji se koristi za pretvaranje ljudski čitljivih domenskih imena, poput www.example.com, u IP adrese koje računalni uređaji koriste za identifikaciju i komunikaciju na internetu. DNS ima nekoliko ključnih funkcija i komponenata:\n1. Preglednost: Omogućava korisnicima da koriste ljudski čitljiva domenska imena umjesto da pamte brojčane IP adrese.\n2. Raspodijeljenost: DNS je raspodijeljen sustav s više DNS poslužitelja širom svijeta koji zajedno tvore DNS infrastrukturu.\n3. Hierarhijska struktura: DNS domene su organizirane u hijerarhijsku strukturu, s vršnom razinom (top-level domain - TLD), srednjom razinom (second-level domain) i poddomenama.\n4. Rezolucija imena: DNS poslužitelji obavljaju rezoluciju imena tako da pretvaraju domenska imena u odgovarajuće IP adrese.\n5. Caching: DNS poslužitelji često privremeno pohranjuju rezultate upita kako bi smanjili opterećenje na DNS infrastrukturi i ubrzali buduće upite.\n6. Autoritativni i refleksivni poslužitelji: Autoritativni DNS poslužitelji upravljaju DNS zapisima za određene domene, dok refleksivni DNS poslužitelji obradjuju upite korisnika za rezoluciju domenskih imena.\n7. MX i CNAME zapisi: DNS omogućava dodatne zapise poput MX (Mail Exchanger) zapisa za upravljanje elektroničkom poštom i CNAME (Canonical Name) zapisa za stvaranje aliasa za domenska imena."
+    },
+    {
+        "id": "162",
+        "question": "Što predstavlja kratica FTP?",
+        "answer": "Odgovor: Kratica FTP označava 'File Transfer Protocol' (Protokol za prijenos datoteka) i radi se o standardiziranom protokolu za prijenos datoteka između računala i poslužitelja na računalnoj mreži, kao što je internet. FTP omogućava korisnicima da prenesu datoteke s jednog računala na drugo, bilo lokalno unutar iste mreže ili udaljeno preko interneta. Protokol podržava funkcionalnosti kao što su prijava, odjava, pregledavanje direktorija i manipulacija datotekama na poslužitelju. FTP također ima sigurniju varijantu poznatu kao FTPS (FTP Secure) koja koristi SSL/TLS za enkripciju komunikacije kako bi zaštitila osjetljive informacije tijekom prijenosa."
+    },
+    {
+        "id": "163",
+        "question": "Koja je rezolucija HDTV (high definition television)?",
+        "answer": "Rezolucija HDTV-a može varirati, ali standardne rezolucije uključuju 720p (1280x720 piksela) i 1080p (1920x1080 piksela)."
+    },
+    {
+        "id": "164",
+        "question": "Koja je važna osobina 'public domain software' - (u javnom vlasništvu)?",
+        "answer": "Jedna važna osobina 'public domain softwarea' je da je slobodan za korištenje bez ikakvih ograničenja ili autorskih prava."
+    },
+    {
+        "id": "165",
+        "question": "Koje dvije vrste kompresije poznajete?",
+        "answer": "Dvije vrste kompresije su gubitna kompresija (lossy compression) i bezztratna kompresija (lossless compression)."
+    },
+    {
+        "id": "166",
+        "question": "Koji su osnovni elementi multimedijskog sadržaja?",
+        "answer": "Osnovni elementi multimedijskog sadržaja uključuju tekst, slike, zvuk, video i interaktivne elemente."
+    },
+    {
+        "id": "167",
+        "question": "Koliko broj piksela po jedinici površine nam je potreban za pravilan ispis na ekranu?",
+        "answer": "Broj piksela po jedinici površine potreban za pravilan ispis na ekranu ovisi o rezoluciji ekrana, ali obično se koristi 72 piksela po inču (PPI) za web i 96 PPI za tisak."
+    },
+    {
+        "id": "168",
+        "question": "Koliko je zvučni spektar sluha za ljude?",
+        "answer": "Zvučni spektar sluha za ljude obično se kreće između 20 Hz (niski tonovi) i 20 kHz (visoki tonovi)."
+    },
+    {
+        "id": "169",
+        "question": "O kojem prostoru boja pričamo kada govorimo o tisku?",
+        "answer": "Kada govorimo o tisku, često se odnosi na CMYK prostor boja, što predstavlja četiri osnovne tiskarske boje: cijan, magenta, žuta i crna."
+    },
+    {
+        "id": "170",
+        "question": "Šta je digitalizacija?",
+        "answer": "Digitalizacija je proces pretvaranja analogne informacije u digitalni oblik, često u obliku binarnih podataka (0 i 1)."
+    },
+    {
+        "id": "171",
+        "question": "Što je zvuk?",
+        "answer": "Zvuk je mehanički val koji se širi kroz medij poput zraka, vode ili čvrstog materijala i može se percipirati kao zvuk ili ton."
+    },
+    {
+        "id": "172",
+        "question": "U kojoj vrsti kompresije slike imamo mogućnost prozirnog piksela?",
+        "answer": "Mogućnost prozirnog piksela obično se nalazi u formatima slike koji podržavaju bezztratnu kompresiju, poput PNG-a."
+    },
+    {
+        "id": "173",
+        "question": "Bauhaus je škola za arhitekturu i primijenjenu umjetnost osnovana u?",
+        "answer": "Bauhaus je škola za arhitekturu i primijenjenu umjetnost osnovana u Weimaru, Njemačka."
+    },
+    {
+        "id": "174",
+        "question": "Boris Ljubičić poznat je po korištenju?",
+        "answer": "Boris Ljubičić je poznat po korištenju tipografije i dizajna u svojim radovima."
+    },
+    {
+        "id": "175",
+        "question": "Današnje web stranice grade se pomoću?",
+        "answer": "Današnje web stranice se često grade pomoću HTML-a, CSS-a i JavaScripta."
+    },
+    {
+        "id": "176",
+        "question": "Dimenzije formata B1 u milimetrima iznose?",
+        "answer": "Dimenzije formata B1 iznose 707 x 1000 milimetara."
+    },
+    {
+        "id": "177",
+        "question": "Fotografija za tisak mora imati minimalnu rezoluciju od?",
+        "answer": "Fotografija za tisak obično mora imati minimalnu rezoluciju od 300 DPI (dots per inch)."
+    },
+    {
+        "id": "178",
+        "question": "Helvetica je?",
+        "answer": "Helvetica je popularni sans-serif font često korišten u dizajnu i tisku."
+    },
+    {
+        "id": "179",
+        "question": "Kod dizajna materijala za tisak koristit ćemo sustav boja?",
+        "answer": "Kod dizajna materijala za tisak često ćemo koristiti CMYK sustav boja."
+    },
+    {
+        "id": "180",
+        "question": "Kod kompozicije unutar nekog formata, točke fokusa su u pravilu?",
+        "answer": "Kod kompozicije unutar nekog formata, točke fokusa obično su ključne elemente koji privlače pažnju gledatelja."
+    },
+    {
+        "id": "181",
+        "question": "Kod oblikovanja znaka i logotipa, bolje je koristiti?",
+        "answer": "Kod oblikovanja znaka i logotipa, bolje je koristiti vektorske grafike kako bi se osigurala skalabilnost i oštra kvaliteta bez obzira na veličinu."
+    },
+    {
+        "id": "182",
+        "question": "Koji od navedenih formata slika ne podržava transparenciju?",
+        "answer": "JPG format slike ne podržava transparenciju; on koristi kompresiju s gubicima."
+    },
+    {
+        "id": "183",
+        "question": "Koji od slijedećih fontova nije serifni?",
+        "answer": "Arial je sans-serif font, dok su Times New Roman i Georgia serifni fontovi."
+    },
+    {
+        "id": "184",
+        "question": "Najčitljivija kombinacija slova i pozadine je?",
+        "answer": "Najčitljivija kombinacija slova i pozadine je obično crno slovo na bijeloj pozadini."
+    },
+    {
+        "id": "185",
+        "question": "Omjer zlatnog reza je?",
+        "answer": "Omjer zlatnog reza iznosi približno 1,618."
+    },
+    {
+        "id": "186",
+        "question": "Optimalan broj znakova u retku tiskanog teksta kreće se između?",
+        "answer": "Optimalan broj znakova u retku tiskanog teksta obično se kreće između 50 i 75 znakova."
+    },
+    {
+        "id": "187",
+        "question": "Pantone sustav služi za?",
+        "answer": "Pantone sustav boja služi za standardizaciju boja i precizno određivanje nijansi boja za tisak."
+    },
+    {
+        "id": "188",
+        "question": "Prijelom je?",
+        "answer": "Prijelom je proces postavljanja teksta i grafičkih elemenata unutar dizajna kako bi se stvorio finalni izgled."
+    },
+    {
+        "id": "189",
+        "question": "Prijelom se najčešće radi u kojem programu?",
+        "answer": "Prijelom se najčešće radi u programima za dizajn i pripremu tiska, poput Adobe InDesigna."
+    },
+    {
+        "id": "190",
+        "question": "Skraćenica imena strukovnog udruženja dizajnera u Hrvatskoj je?",
+        "answer": "Skraćenica imena strukovnog udruženja dizajnera u Hrvatskoj je HDD (Hrvatsko dizajnersko društvo)."
+    },
+    {
+        "id": "191",
+        "question": "Tko je autor jednog od najpoznatijih hrvatskih plakata, plakata za balete ‘Žar ptica’ i ‘Petruška’?",
+        "answer": "Autor jednog od najpoznatijih hrvatskih plakata za balete 'Žar ptica' i 'Petruška' je Maksimilijan Vanka."
+    },
+    {
+        "id": "192",
+        "question": "Tko je autor svjetski poznatog znaka ‘I Love New York’?",
+        "answer": "Autor svjetski poznatog znaka 'I Love New York' je Milton Glaser."
+    },
+    {
+        "id": "193",
+        "question": "Aktualni simetrični enkripcijski algoritam i aktualni asimetrični algoritam koji danas predstavljaju standarde unutar svojih tipova enkripcije i naširoko se koriste, su?",
+        "answer": "Aktualni simetrični enkripcijski algoritam koji se često koristi je AES (Advanced Encryption Standard), dok je aktualni asimetrični algoritam RSA (Rivest-Shamir-Adleman)."
+    },
+    {
+        "id": "194",
+        "question": "Čime se bavi kriptoanaliza?",
+        "answer": "Kriptoanaliza se bavi analizom kriptografskih sustava kako bi se otkrile slabosti i pronašli načini za dešifriranje šifriranih podataka bez pristupa ključu."
+    },
+    {
+        "id": "195",
+        "question": "Čime se bavi kriptografija?",
+        "answer": "Kriptografija se bavi šifriranjem podataka kako bi se osigurala tajnost i integritet informacija prilikom prijenosa ili pohrane."
+    },
+    {
+        "id": "196",
+        "question": "Digitalni potpis osigurava?",
+        "answer": "Digitalni potpis osigurava autentičnost i integritet digitalnih dokumenata te omogućava provjeru identiteta pošiljatelja."
+    },
+    {
+        "id": "197",
+        "question": "Kod bežičnih mreža, kontrola pristupa mreži obavlja se putem?",
+        "answer": "Kod bežičnih mreža, kontrola pristupa mreži obavlja se putem sigurnosnih protokola kao što su WPA (Wi-Fi Protected Access) ili WEP (Wired Equivalent Privacy)."
+    },
+    {
+        "id": "198",
+        "question": "Koja je temeljna funkcija koju klijent i poslužitelj izvrše putem SSL/TLS protokola?",
+        "answer": "Temeljna funkcija koju klijent i poslužitelj izvrše putem SSL/TLS protokola je osiguranje sigurne komunikacije putem šifriranja podataka."
+    },
+    {
+        "id": "199",
+        "question": "Koje je osnovno svojstvo funkcija sažimanja (hash funkcija) o kojem ovisi koliko je takva funkcija jaka?",
+        "answer": "Osnovno svojstvo funkcija sažimanja (hash funkcija) o kojem ovisi koliko je takva funkcija jaka je otpornost na kolizije, tj. sposobnost da različiti ulazi generiraju različite sažetke."
+    },
+    {
+        "id": "200",
+        "question": "Što kriptografija tajnoga ključa ili simetrična kriptografija koriste?",
+        "answer": "Kriptografija tajnoga ključa ili simetrična kriptografija koristi isti ključ za šifriranje i dešifriranje podataka."
+    },
+    {
+        "id": "201",
+        "question": "Što se ostvaruje u okviru infrastrukture javnoga ključa (PKI)?",
+        "answer": "U okviru infrastrukture javnoga ključa (PKI) ostvaruje se sigurna razmjena javnih ključeva i digitalnih potpisa radi autentifikacije i šifriranja podataka."
+    },
+    {
+        "id": "202",
+        "question": "U suvremenoj kriptografiji koriste se?",
+        "answer": "U suvremenoj kriptografiji koriste se napredni algoritmi i matematičke metode za osiguranje sigurnosti komunikacije i podataka."
+    },
+    {
+        "id": "203",
+        "question": "Koji od navedenih formata slika za web mogu biti transparentni?",
+        "answer": "PNG i GIF formati slika za web mogu podržavati transparentnost."
+    },
+    {
+        "id": "204",
+        "question": "Kakve su to komplementarne boje?",
+        "answer": "Komplementarne boje su boje koje se nalaze nasuprot jedna drugoj na kotaču boja, npr. crvena i zelena, plava i narančasta."
+    },
+    {
+        "id": "205",
+        "question": "Koja od navedenih vrijednosti za veličinu tipografije jest relativna?",
+        "answer": "Vrijednost za veličinu tipografije koja je relativna je 'em' (1em je ekvivalentan veličini fonta korijenskog elementa HTML-a)."
+    },
+    {
+        "id": "206",
+        "question": "Koji od navedenih je format e-knjige?",
+        "answer": "Format e-knjige može biti ePub."
+    },
+    {
+        "id": "207",
+        "question": "Koji su obavezno podržani fontovi u ePUB e-knjigama?",
+        "answer": "U ePUB e-knjigama obavezno podržani fontovi su univerzalni standardni fontovi poput Times New Roman, Arial i Courier."
+    },
+    {
+        "id": "208",
+        "question": "Kolika je veličina fonta postavljena standardno ukoliko ju sami ne postavimo u HTML dokumentu?",
+        "answer": "Standardna veličina fonta u HTML dokumentu obično je 16 piksela."
+    },
+    {
+        "id": "209",
+        "question": "Koliki je raspon znakova u retku da bi se postigla idealna čitljivost na stranici?",
+        "answer": "Idealna čitljivost na stranici postiže se obično s rasponom od 45-75 znakova u retku."
+    },
+    {
+        "id": "210",
+        "question": "Neki od strukturalnih elemenata pomoću kojih se semantički pravilno grade XHTML dokumenti u EPUB3 su?",
+        "answer": "Neki od strukturalnih elemenata pomoću kojih se semantički pravilno grade XHTML dokumenti u EPUB3 uključuju <section>, <article>, <header>, <footer> i slične elemente."
+    },
+    {
+        "id": "211",
+        "question": "Od koliko točaka se konstruira Bezier krivulja?",
+        "answer": "Bezier krivulja se konstruira od 4 točke: dvije kontrolne točke i početnu i krajnju točku."
+    },
+    {
+        "id": "212",
+        "question": "S kojim postscript naredbama možemo nacrtati kružnicu?",
+        "answer": "Kružnicu možemo nacrtati postscript naredbama poput 'newpath', 'arc' i 'stroke'."
+    },
+    {
+        "id": "213",
+        "question": "U CMYK sustavu kako dobijemo zelenu boju?",
+        "answer": "Zelenu boju u CMYK sustavu dobivamo kombiniranjem cijan (C) i žute (Y) boje bez magente (M) i crne (K)."
+    },
+    {
+        "id": "214",
+        "question": "Unutar kojeg elementa postavljamo MathML izraze?",
+        "answer": "MathML izraze obično postavljamo unutar <math> elementa u HTML-u kako bismo prikazali matematičke izraze na web stranicama."
+    },
+    {
+        "id": "215",
+        "question": "Grozd ćelija definira se kao?",
+        "answer": "Grozd ćelija (cell cluster) definira se kao grupa stanica (ćelija) u mobilnoj mreži koja radi zajedno kao jedna jedinica za pokrivanje određenog područja."
+    },
+    {
+        "id": "216",
+        "question": "Kako kod LTE tehnologije nazivamo krajnju točku radijskih protokola?",
+        "answer": "Kod LTE tehnologije, krajnju točku radijskih protokola nazivamo eNodeB (enhanced NodeB) ili bazna stanica."
+    },
+    {
+        "id": "217",
+        "question": "Kako kod UMTS tehnologije nazivamo krajnju točku zračnog sučelja?",
+        "answer": "Kod UMTS tehnologije, krajnju točku zračnog sučelja nazivamo NodeB (Node B) ili bazna stanica."
+    },
+    {
+        "id": "218",
+        "question": "Kod LTE tehnologije u jezgri mreže postoje slijedeći dijelovi mreže?",
+        "answer": "Kod LTE tehnologije, u jezgri mreže postoje dijelovi kao što su MME (Mobility Management Entity), S-GW (Serving Gateway), P-GW (Packet Data Network Gateway) i HSS (Home Subscriber Server)."
+    },
+    {
+        "id": "219",
+        "question": "Koja od navedenih mreža ne spada u javne mobilne mreže?",
+        "answer": "Javne mobilne mreže uključuju GSM, UMTS, LTE i slične, dok privatne mreže i virtualne mreže ne spadaju u javne mobilne mreže."
+    },
+    {
+        "id": "220",
+        "question": "Kolika je širina radiokanala u UMTS sustavu?",
+        "answer": "Širina radiokanala u UMTS sustavu može biti 5 MHz ili 10 MHz, ovisno o konfiguraciji mreže."
+    },
+    {
+        "id": "221",
+        "question": "Koliki fiksni faktor raspršenja (spreading factor-SF) koristi HSDPA?",
+        "answer": "HSDPA (High-Speed Downlink Packet Access) koristi fiksni faktor raspršenja (SF) od 16."
+    },
+    {
+        "id": "222",
+        "question": "Mobilna postaja pozicionirana blizu granice zone, odašilje kojom snagom u odnosu na mobilnu postaju blizu bazne postaje?",
+        "answer": "Mobilna postaja pozicionirana blizu granice zone obično odašilje većom snagom u odnosu na mobilnu postaju blizu bazne postaje kako bi kompenzirala udaljenost i osigurala pouzdanu vezu."
+    },
+    {
+        "id": "223",
+        "question": "Pretplatnikov identifikacijski broj IMSI (International Mobile Subscriber Number) čuva se u?",
+        "answer": "Pretplatnikov identifikacijski broj IMSI čuva se u SIM kartici (Subscriber Identity Module) uređaja."
+    },
+    {
+        "id": "224",
+        "question": "Tehnologija koji NE omogućava paketski prijenos podataka je?",
+        "answer": "Tehnologija koja NE omogućava paketski prijenos podataka je Circuit Switching, dok omogućava prijenos u obliku stalnih veza."
+    }
+]
